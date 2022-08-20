@@ -1,0 +1,3 @@
+web3
+pysha3
+py-solc-x
